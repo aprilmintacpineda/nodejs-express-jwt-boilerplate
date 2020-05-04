@@ -1,0 +1,13 @@
+dump.rdb
+node_modules
+build
+.DS_Store
+.git
+.env
+*.key
+*.pub
+*.crt
+*.csr
+*.pw
+*.srl
+*.pem
