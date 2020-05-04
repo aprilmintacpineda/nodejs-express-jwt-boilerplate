@@ -259,7 +259,7 @@ Only valid for 90 days, test the renewal process with `certbot renew --dry-run`.
 
 `db-migrate` and `db-migrate-mysql` modules are being used for database migrations.
 
-#### MySQL 8.0 (optional)
+#### MySQL 8.0 (optional, you can use hosted solutions)
 
 [Source](https://www.tecmint.com/install-mysql-8-in-ubuntu/)
 
